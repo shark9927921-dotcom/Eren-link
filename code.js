@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Discord Token & Quest Enroller (Euiz Dev - Toolbar Layout)
+// @name         Discord Token & Quest Enroller (Eren Avt - Toolbar Layout)
 // @namespace    http://tampermonkey.net/
 // @version      2.4
 // @description  Get Discord token + enroll or claim quests easily — UI panel by Euiz Dev
